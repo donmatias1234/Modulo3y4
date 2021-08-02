@@ -3,7 +3,7 @@ import csv
 mydb = db.connect(
     host = "localhost",
     user = "root",
-    passwd = "dino1994",
+    passwd = "",
     database = "Cine"
 )
 
