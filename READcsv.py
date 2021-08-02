@@ -5,7 +5,7 @@ import mysql.connector as db
 mydb = db.connect(
     host = 'localhost',
     user = 'root',
-    passwd = 'dino1994',
+    passwd = '',
     database = 'taller1'
 )
 
